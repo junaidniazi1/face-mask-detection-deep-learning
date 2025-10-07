@@ -21,7 +21,7 @@
 
 <div align="center">
 
-🎥 **Demo Video:** [Watch Project Demo](video.mp4)
+🎥  ![Watch Project Demo](Demo.gif)
 
 </div>
 
@@ -77,9 +77,9 @@
 
 | Input Image | Model Prediction |
 |-------------|------------------|
-| ![mask](examples/with_mask.jpg) | 😷 **With Mask** |
+| ![mask](mask.jpg) | 😷 **With Mask** |
 |---------------------------------|-----------------|
-| ![Withoutmask](examples/without_mask.jpg) | ❌ **Without Mask** |
+| ![Withoutmask](withoutmask.jpg) | ❌ **Without Mask** |
 
 </div>
 
